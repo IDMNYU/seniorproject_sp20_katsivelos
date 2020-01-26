@@ -2,7 +2,7 @@
 
 ![](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
 
-## DM-UY 4003-A Senior Project in Digital Media -- x
+## DM-UY 4003-A Senior Project in Digital Media -- nk
 
 _**“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”**_  
 ~ Norman Vincent Peale
