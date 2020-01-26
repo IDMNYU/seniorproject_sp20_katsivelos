@@ -2,7 +2,7 @@
 
 ![](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
 
-## DM-UY 4003-A Senior Project in Digital Media -- nk
+## DM-UY 4003-A Senior Project in Digital Media 
 
 _**“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”**_  
 ~ Norman Vincent Peale
@@ -12,13 +12,14 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p
 
 | PROFESSOR |  | COURSE INFO |  |
 | :--- | :--- | :--- | :--- |
-| **Name** | De Angela L. Duff | **Term & Year** | Spring 2020 |
-| **Email** | deangela.duff@nyu.edu | **Meeting Day** | Mondays |
-| **Phone** | 646 997 3758 | **Meeting Time** | 12:30-2:20pm |
-| **Office** | 370 Jay St. Rm 361 or Bobst Rm 1238 | **Location** | 370 Jay St. Rm 311 |
-| **Office Hours** | after class or by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs** | 3 |
+| **Name** | Nick Katsivelos | **Term & Year** | Spring 2020 |
+| **Email** | nick.katsivelos@nyu.edu | **Meeting Day** | Mondays |
+| **Phone** | 646 201 3938 | **Meeting Time** | 12:30-2:20pm |
+| **Office** | 370 Jay St. Rm ... | **Class Location** | 370 Jay St. Rm 308 |
+| **Office Hours** | after class or by appt. please email or slack to set up appointment
+ **Credit Hrs** | 3 |
 
-**Course Website:** [https://deangela.gitbook.io/senior-project-sp20/](https://deangela.gitbook.io/senior-project-sp20/)  
+**Course Website:** [https://nick-katsivelos.gitbook.io/senior-project-sp20/](https://nick-katsivelos.gitbook.io/senior-project-sp20/)  
 The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
 
 **Course Communication:** [http://idmspsp20.slack.com](http://idmspsp20.slack.com)  
@@ -132,8 +133,8 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 ### Communicating With The Professor Outside Of Class
 
 * Direct message the professor on Slack about logistics \(when, where, how many?\) ONLY
-* Talk to the professor directly after class, during one of your one-on-one meetings, or set up an appointment at [http://calendly.com/deangela](http://calendly.com/deangela) about issues and problems. DO NOT email long conversations. \(If your email turns into paragraphs that means you should be talking to me in person not emailing me.\)
-* Please be aware that I currently have a split position at NYU and, as a result, I have two different offices: one in 370 Jay and one at Bobst Library on the WSQ campus. My schedule varies from week to week, but, once school begins, most weeks, I will be at 370 Jay on Mondays and Thursdays. On other days and times, before and during the semester, I will be at Bobst more often than not.
+* Talk to the professor directly after class, during one of your one-on-one meetings, or set up an appointment by emailing or slack messaging me about issues and problems. DO NOT email long conversations. \(If your email turns into paragraphs that means you should be talking to me in person not emailing me.\)
+* Please be aware that I have an office on 3 in 370 Jay, but am usually only there on Mondays.
 
 ### Student Responsibilities
 
