@@ -170,7 +170,7 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 
 * Per NYU policy, any excused absences need to be validated by Deanna Rayment, Coordinator of Student Advocacy and Compliance for NYU Tandon School of Engineering \(deanna.rayment@nyu.edu\), and have the professor notified
 * If an excused absence is required for a religious observance, students need to contact Student Affairs at the beginning of the semester for a request, and have the professor notified
-* Attendance is mandatory on [Midterm Demo and Critique](/critiques-demos-presentations-and-exhibition/project_demo.md) and [IDM Student Showcase](/idm_showcase.md).
+* Attendance is mandatory on [Midterm Demo and Critique](/critiques-demos-presentations-and-exhibition/project_demo.md) and [IDM Student Showcase](/critiques-demos-presentations-and-exhibition/idm_showcase.md).
 * Missed individual meetings will not be rescheduled; Make every effort to swap your timeslot with another student. Otherwise, students will have to wait for their next assigned meeting time if you do not attend or swap your timeslot.
 * In the event a student has little or no progress to show, he/she is still required to attend class.
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
