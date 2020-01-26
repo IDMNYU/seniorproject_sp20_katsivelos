@@ -181,9 +181,9 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 
 **Quantitative Grading Overview**
 
-* 15% Weekly submissions to [process website](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/pre-work/website.md)
+* 15% Weekly submissions to [process website](/pre-work/website.md)
 * 15% Critiques, Demos, Presentations & Exhibition
-  * 05% [Project Demos and Critiques]https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/critiques-demos-presentations-and-exhibition/project_demo.md)
+  * 05% [Project Demos and Critiques](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/critiques-demos-presentations-and-exhibition/project_demo.md)
   * 05% [Midterm Demo and Critique](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/critiques-demos-presentations-and-exhibition/project_demo.md)
   * 05% [IDM Student Showcase](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/critiques-demos-presentations-and-exhibition/idm_showcase.md)
 * 30% Final Project 
