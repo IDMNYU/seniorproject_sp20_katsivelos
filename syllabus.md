@@ -113,7 +113,7 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 
 * **Group and class critiques**
 
-  Critiques \(AKA crits\) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your [accountability partner](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/assignments/accountability_partner.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
+  Critiques \(AKA crits\) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your [accountability partner](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/assignments/accountability_partner.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
 **Rules of the critique:**
 
@@ -170,7 +170,7 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 
 * Per NYU policy, any excused absences need to be validated by Deanna Rayment, Coordinator of Student Advocacy and Compliance for NYU Tandon School of Engineering \(deanna.rayment@nyu.edu\), and have the professor notified
 * If an excused absence is required for a religious observance, students need to contact Student Affairs at the beginning of the semester for a request, and have the professor notified
-* Attendance is mandatory on [Midterm Demo and Critique](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/project_demo.md) and [IDM Student Showcase](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/idm_showcase.md).
+* Attendance is mandatory on [Midterm Demo and Critique](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/critiques-demos-presentations-and-exhibition/project_demo.md) and [IDM Student Showcase]https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/critiques-demos-presentations-and-exhibition/idm_showcase.md).
 * Missed individual meetings will not be rescheduled; Make every effort to swap your timeslot with another student. Otherwise, students will have to wait for their next assigned meeting time if you do not attend or swap your timeslot.
 * In the event a student has little or no progress to show, he/she is still required to attend class.
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
@@ -181,24 +181,24 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 
 **Quantitative Grading Overview**
 
-* 15% Weekly submissions to [process website](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/pre-work/website.md)
+* 15% Weekly submissions to [process website](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/pre-work/website.md)
 * 15% Critiques, Demos, Presentations & Exhibition
-  * 05% [Project Demos and Critiques](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/project_demo.md)
-  * 05% [Midterm Demo and Critique](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/project_demo.md)
-  * 05% [IDM Student Showcase](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/idm_showcase.md)
+  * 05% [Project Demos and Critiques]https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/critiques-demos-presentations-and-exhibition/project_demo.md)
+  * 05% [Midterm Demo and Critique](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/critiques-demos-presentations-and-exhibition/project_demo.md)
+  * 05% [IDM Student Showcase](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/critiques-demos-presentations-and-exhibition/idm_showcase.md)
 * 30% Final Project 
-  * 15% [Project Plan and its revisions](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/project_plan/README.md)
-  * 15% [Project Development](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/project_plan/README.md)
-* 40% [End of Semester Documentation and Deliverables](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/README.md)   
-  * 05% [End of Semester Process PDF](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/pdf_or_book.md)
-  * \(OPTIONAL\) [End of Semester Process Book for EXTRA CREDIT \(raise final grade by half a letter grade\)](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/pdf_or_book.md)
-  * 05% [Project Documentation For IDM Archives and Promotion](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/project_documentation.md)
-  * 7.5% [Pro Practices Revisions](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/pro_practices_revisions.md)   
-  * 2.5% [Final Self-assessment](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/final_self_assessment.md)
-  * 2.5% [Letter To Next Cohort](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/letter_to_next_cohort.md)
-  * 2.5% [Midterm Self Assessment](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/midterm_self_assessment.md)
-  * 2.5% [Pre-work](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/pre-work/README.md)
-  * 2.5% [Course Evaluation](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/course_evaluation.md)  
+  * 15% [Project Plan and its revisions](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/project_plan/README.md)
+  * 15% [Project Development](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/project_plan/README.md)
+* 40% [End of Semester Documentation and Deliverables](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/end_of_semester_deliverables/README.md)   
+  * 05% [End of Semester Process PDF](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/end_of_semester_deliverables/pdf_or_book.md)
+  * \(OPTIONAL\) [End of Semester Process Book for EXTRA CREDIT \(raise final grade by half a letter grade\)](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/end_of_semester_deliverables/pdf_or_book.md)
+  * 05% [Project Documentation For IDM Archives and Promotion](hhttps://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/end_of_semester_deliverables/project_documentation.md)
+  * 7.5% [Pro Practices Revisions](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/end_of_semester_deliverables/pro_practices_revisions.md)   
+  * 2.5% [Final Self-assessment](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/end_of_semester_deliverables/final_self_assessment.md)
+  * 2.5% [Letter To Next Cohort](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/end_of_semester_deliverables/letter_to_next_cohort.md)
+  * 2.5% [Midterm Self Assessment]https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/end_of_semester_deliverables/midterm_self_assessment.md)
+  * 2.5% [Pre-work](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/pre-work/README.md)
+  * 2.5% [Course Evaluation](https://github.com/IDMNYU/seniorproject_sp20_katsivelos/blob/master/end_of_semester_deliverables/course_evaluation.md)  
 
 **Qualitative Grading Overview**
 
