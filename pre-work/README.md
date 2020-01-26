@@ -1,6 +1,6 @@
 # Pre-work
 
-![Start at the beginning](http://teaching.polishedsolid.com/images/gettoworkbook_start_at_the_beginning.png "image") 
+![Start at the beginning](http://teaching.polishedsolid.com/images/gettoworkbook_start_at_the_beginning.png) 
 
 _Illustration by Jolby from gettoworkbook_
 
