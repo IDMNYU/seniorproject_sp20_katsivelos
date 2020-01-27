@@ -15,7 +15,7 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p
 | **Name** | Nick Katsivelos | **Term & Year** | Spring 2020 |
 | **Email** | nick.katsivelos@nyu.edu | **Meeting Day** | Mondays |
 | **Phone** | 646 201 3938 | **Meeting Time** | 12:30-2:20pm |
-| **Office** | 370 Jay St. Rm ... | **Class Location** | 370 Jay St. Rm 308 |
+| **Office** | 370 Jay St. Rm 346 | **Class Location** | 370 Jay St. Rm 308 |
 | **Office Hours** | after class or by appt. please email or slack to set up appointment
  **Credit Hrs** | 3 |
 
